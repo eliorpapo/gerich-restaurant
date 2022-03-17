@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/gerich-restaurant/static/css/main.8c843ee3.css",
-    "main.js": "/gerich-restaurant/static/js/main.a0d0f1c6.js",
+    "main.css": "/gerich-restaurant/static/css/main.47c64305.css",
+    "main.js": "/gerich-restaurant/static/js/main.65aa348c.js",
+    "static/media/meal.mp4": "/gerich-restaurant/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/gerich-restaurant/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/gerich-restaurant/static/media/welcome.d724eb984456d9c97470.png",
     "static/media/findus.png": "/gerich-restaurant/static/media/findus.585c393ccd3671513743.png",
@@ -23,11 +24,11 @@
     "static/media/sign.png": "/gerich-restaurant/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/gerich-restaurant/index.html",
     "static/media/spoon.svg": "/gerich-restaurant/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.8c843ee3.css.map": "/gerich-restaurant/static/css/main.8c843ee3.css.map",
-    "main.a0d0f1c6.js.map": "/gerich-restaurant/static/js/main.a0d0f1c6.js.map"
+    "main.47c64305.css.map": "/gerich-restaurant/static/css/main.47c64305.css.map",
+    "main.65aa348c.js.map": "/gerich-restaurant/static/js/main.65aa348c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c843ee3.css",
-    "static/js/main.a0d0f1c6.js"
+    "static/css/main.47c64305.css",
+    "static/js/main.65aa348c.js"
   ]
 }
